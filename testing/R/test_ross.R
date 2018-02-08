@@ -5,6 +5,6 @@
 #' @param 
 #' @return Gives back 7.
 #' @export
-test <- function () {
+test_ross <- function () {
   return (7);
 }
