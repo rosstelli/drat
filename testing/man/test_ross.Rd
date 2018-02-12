@@ -4,7 +4,12 @@
 \alias{test_ross}
 \title{This means nothing}
 \usage{
-test_ross()
+test_ross(x = 1, y = 2, z = 3)
+}
+\arguments{
+\item{x}{this is a number}
+
+\item{y}{this is another number}
 }
 \value{
 Gives back 7.

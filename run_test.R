@@ -1,0 +1,5 @@
+install.packages("devtools")
+library("devtools")
+devtools::install_github("rosstelli/drat/testing")
+library("testing")
+test_ross()

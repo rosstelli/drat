@@ -13,3 +13,4 @@ setwd("/Users/ross/Desktop/drat_test")
 install("testing")
 
 devtools::install_github("rosstelli/drat/testing")
+library("testing")
