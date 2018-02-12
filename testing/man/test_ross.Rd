@@ -18,8 +18,12 @@ Gives back 7.
 This function is purely a test.
 }
 \examples{
+# Using one way
 test_ross(
-\\t\\tx=2,
-\\t\\ty=3
-\\t)
+     x=2,
+     y=3
+   )
+   
+#Using another way
+test_ross()
 }
