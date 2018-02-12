@@ -17,3 +17,9 @@ Gives back 7.
 \description{
 This function is purely a test.
 }
+\examples{
+test_ross(
+x=2,
+y=3
+)
+}
