@@ -9,9 +9,9 @@
 #' @export
 #' @examples 
 #' test_ross(
-#' x=2,
-#' y=3
-#' )
+#' \t\tx=2,
+#' \t\ty=3
+#' \t)
 test_ross <- function (x=1,y=2,z=3) {
   return (7);
 }

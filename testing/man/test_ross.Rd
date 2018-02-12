@@ -19,7 +19,7 @@ This function is purely a test.
 }
 \examples{
 test_ross(
-x=2,
-y=3
-)
+\\t\\tx=2,
+\\t\\ty=3
+\\t)
 }
